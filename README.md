@@ -15,7 +15,7 @@
 
 ## Experiência Profissional
 
-💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack autônomo
+💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack autônomo  
 👨‍🏫 &nbsp;[Set/2020 - Presente] Professor autônomo (Web Full Stack)  
 👨‍🏫 &nbsp;[Nov/2020 - Fev/2021] Professor de inglês no Cebrac
 
@@ -30,10 +30,6 @@
 <!-- NPM -->
 <a href="#">
       <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
-<!-- YARN -->
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a>
 
 ### :computer: Front-End Development
