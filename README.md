@@ -15,8 +15,8 @@
 
 ## Experiência Profissional
 
-💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack autônomo  
-👨‍🏫 &nbsp;[Set/2020 - Presente] Professor autônomo (Web Full Stack)  
+💻 &nbsp;[Jan/2022 - Presente] Desenvolvedor Web Full Stack autônomo  
+👨‍🏫 &nbsp;[Jan/2022 - Presente] Professor autônomo (Web Full Stack)  
 👨‍🏫 &nbsp;[Nov/2020 - Fev/2021] Professor de inglês no Cebrac
 
 ## 🛠️ Skills
