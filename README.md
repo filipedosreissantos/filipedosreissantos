@@ -1,27 +1,23 @@
-# Filipe Reis
-
-<img align="right" src="https://komarev.com/ghpvc/?username=walissonsilva" alt="WalissonSilva's Profile Views" />
+# Filipe dos Reis Santos
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-FilipedoDosReisSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipedosreissantos/)](https://www.linkedin.com/in/filipedosreissantos/) 
-[![Gmail Badge](https://img.shields.io/badge/-walissonsilva.me@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walissonsilva.me@gmail.com)](mailto:walissonsilva.me@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Blog-walissonsilva.com-blue)](https://walissonsilva.com/blog)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/walissonsilva)](https://youtube.com/c/walissonsilva)
+[![Gmail Badge](https://img.shields.io/badge/-filipedosreissantos3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipedosreissantos3@gmail.com)](mailto:filipedosreissantos3@gmail.com)
 
-<!--![Walisson Silva's github stats](https://github-readme-stats.vercel.app/api?username=walissonsilva&show_icons=true&theme=tokyonight)-->
+
 
 ## Sobre mim
 
 💻 &nbsp;Desenvolvedor Web Full Stack  
 👨‍🏫 &nbsp;Professor de Programação
 ⚡ &nbsp;Graduado em Análise e Desenvolvimento de Sistemas
-⚡ &nbsp;Graduando em Engenharia de Software
+⚡ &nbsp;Bacharelando em Engenharia de Software
 
 
 ## Experiência Profissional
 
 💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack autônomo
 👨‍🏫 &nbsp;[Set/2020 - Presente] Professor autônomo (Web Full Stack)  
-👨‍🏫 &nbsp;[Nov/2020 - Fev/2021] Professor de inglês no CEBRAC  
+👨‍🏫 &nbsp;[Nov/2020 - Fev/2021] Professor de inglês no Cebrac
 
 ## 🛠️ Skills
 
@@ -60,10 +56,10 @@
 
 ### 📱 Mobile
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 🧪 Testing
+<!--### 🧪 Testing
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+-->
