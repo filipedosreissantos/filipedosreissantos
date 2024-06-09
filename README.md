@@ -8,8 +8,8 @@
 ## Sobre mim
 
 💻 &nbsp;Desenvolvedor Web Full Stack  
-👨‍🏫 &nbsp;Professor de Programação
-⚡ &nbsp;Graduado em Análise e Desenvolvimento de Sistemas
+👨‍🏫 &nbsp;Professor de Programação  
+⚡ &nbsp;Graduado em Análise e Desenvolvimento de Sistemas  
 💻 &nbsp;Bacharelando em Engenharia de Software
 
 
