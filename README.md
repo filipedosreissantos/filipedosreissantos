@@ -1,5 +1,5 @@
 # Filipe dos Reis Santos
-
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-FilipedoDosReisSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipedosreissantos/)](https://www.linkedin.com/in/filipedosreissantos/) 
 [![Gmail Badge](https://img.shields.io/badge/-filipedosreissantos3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipedosreissantos3@gmail.com)](mailto:filipedosreissantos3@gmail.com)
 
@@ -23,11 +23,11 @@
 
 ### :wrench: Tools and environments
 
-<!-- GIT -->
+<!-- GIT
 <a href="#">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>
-<!-- NPM -->
+<!-- NPM
 <a href="#">
       <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
