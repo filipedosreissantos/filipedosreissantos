@@ -1,283 +1,227 @@
-# 🇧🇷 Filipe dos Reis Santos - Portfólio de Desenvolvedor
+<div align="center">
 
-Um site de portfólio vibrante e moderno com cores brasileiras, efeitos de glassmorfismo e animações suaves. Construído com HTML, CSS e JavaScript puros - sem frameworks necessários!
+# 👋 Olá! Eu sou Filipe dos Reis Santos
 
-![Status do Portfólio](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Analista de Sistemas | 🎓 Estudante de Engenharia de Software | 🚀 Desenvolvedor Full-Stack
 
-## ✨ Recursos
+[![Portfólio](https://img.shields.io/badge/Portfólio-009c3b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://filipedosreissantos.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipedosreissantos)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipedosreissantos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelfilipedosreissantos@gmail.com)
 
-- 🎨 **Tema com Cores Brasileiras** - Verde, amarelo e azul vibrantes inspirados na bandeira do Brasil
-- 💎 **Design Glassmorfismo** - Efeitos modernos de cartões de vidro em todo o site
-- 🎭 **Animações Suaves** - Integração com biblioteca AOS (Animate On Scroll)
-- 📱 **Totalmente Responsivo** - Perfeito em desktop, tablet e dispositivos móveis
-- ⚡ **Carregamento Rápido** - Desempenho otimizado com JavaScript puro
-- 🔄 **Conteúdo Dinâmico** - Busca automática de repositórios do GitHub via API
-- 📧 **Formulário de Contato** - Integração direta com mailto
-- 🎯 **Otimizado para SEO** - Meta tags e HTML semântico
-- 🚀 **Pronto para GitHub Pages** - Implante em minutos
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=009C3B&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas;Estudante+de+Engenharia+de+Software;Desenvolvedor+Full-Stack;Solucionador+de+Problemas;Entusiasta+de+Tecnologia" alt="Typing SVG" />
 
-## 🎨 Paleta de Cores
-
-| Cor | Hex | Uso |
-|-----|-----|-----|
-| Verde | `#009c3b` | Cor primária, botões, destaques |
-| Amarelo | `#ffdf00` | Cor secundária, realces |
-| Azul | `#002776` | Texto, cabeçalhos, sobreposições |
-| Branco | `#ffffff` | Fundo, cartões |
-
-## 📂 Estrutura do Projeto
-
-```
-portfolio/
-│
-├── index.html          # Arquivo HTML principal
-├── styles.css          # Todos os estilos com glassmorfismo
-├── script.js           # Funcionalidades JavaScript
-├── profile.jpg         # Sua foto de perfil
-└── README.md          # Documentação do projeto
-```
-
-## 🚀 Início Rápido
-
-### Desenvolvimento Local
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/filipedosreissantos/portfolio.git
-   cd portfolio
-   ```
-
-2. **Abra no navegador**
-   - Simplesmente abra `index.html` no seu navegador web
-   - Ou use um servidor local:
-   ```bash
-   # Usando Python
-   python -m http.server 8000
-   
-   # Usando Node.js
-   npx serve
-   ```
-
-3. **Personalize**
-   - Substitua `profile.jpg` pela sua própria foto
-   - Atualize informações pessoais no `index.html`
-   - Personalize cores no `styles.css` (variáveis CSS no topo)
-   - Modifique seções de conteúdo conforme necessário
-
-## 🌐 Implantar no GitHub Pages
-
-### Método 1: Usando a Interface Web do GitHub
-
-1. **Crie um novo repositório**
-   - Vá para o GitHub e crie um novo repositório
-   - Nome: `portfolio` (para site de projeto) ou `seu-usuario.github.io` (para site principal)
-   - Não inicialize com README (já temos um)
-
-2. **Envie os arquivos**
-   - Clique em "uploading an existing file"
-   - Arraste e solte todos os arquivos:
-     - `index.html`
-     - `styles.css`
-     - `script.js`
-     - `profile.jpg`
-     - `README.md`
-   - Confirme as alterações
-
-3. **Ative o GitHub Pages**
-   - Vá para Configurações do repositório
-   - Role até a seção "Pages"
-   - Origem: Selecione branch "main"
-   - Pasta: Selecione "/ (root)"
-   - Clique em Salvar
-
-4. **Acesse seu site**
-   - URL: `https://filipedosreissantos.github.io/portfolio/`
-   - Aguarde 2-3 minutos para implantação
-
-### Método 2: Usando Linha de Comando Git
-
-```bash
-# Inicialize git (se ainda não foi feito)
-git init
-
-# Adicione todos os arquivos
-git add .
-
-# Commit
-git commit -m "Commit inicial do portfólio"
-
-# Adicione repositório remoto
-git remote add origin https://github.com/filipedosreissantos/portfolio.git
-
-# Push para GitHub
-git branch -M main
-git push -u origin main
-
-# Ative GitHub Pages através das Configurações ou use GitHub CLI
-gh repo edit --enable-pages --pages-branch main
-```
-
-## 🛠️ Guia de Personalização
-
-### Atualizar Informações Pessoais
-
-**No `index.html`:**
-
-1. **Seção Hero**
-   - Linha ~95: Altere seu nome
-   - Linha ~102: Atualize título/descrição do cargo
-   - Linha ~113-127: Atualize links de redes sociais
-
-2. **Seção Sobre**
-   - Linha ~145-180: Modifique formação, experiência e descrições de projetos
-   - Linha ~190-210: Atualize estatísticas
-
-3. **Seção Formação Acadêmica**
-   - Linha ~200-340: Edite cursos, instituições, períodos e certificações
-   - Consulte GUIA-PERSONALIZACAO-FORMACAO.txt para instruções detalhadas
-
-4. **Seção Habilidades**
-   - Linha ~240-340: Adicione/remova/modifique cartões de habilidades
-   - Ajuste níveis de habilidade no atributo `data-level`
-
-5. **Seção Contato**
-   - Linha ~420-440: Atualize email e localização
-   - Linha ~445-460: Atualize links de redes sociais
-
-### Personalizar Cores
-
-**No `styles.css`** (Linhas 1-30):
-
-```css
-:root {
-    /* Altere estes valores */
-    --color-green: #SEU_VERDE;
-    --color-yellow: #SEU_AMARELO;
-    --color-blue: #SEU_AZUL;
-    --color-white: #SEU_BRANCO;
-}
-```
-
-### Adicionar Novas Seções
-
-1. Adicione estrutura HTML no `index.html`
-2. Estilize no `styles.css`
-3. Adicione link de navegação na navbar
-4. Atualize comportamento de rolagem suave no `script.js`
-
-## 📱 Visão Geral das Seções
-
-1. **Hero/Início** - Introdução com efeito de digitação animado
-2. **Sobre** - Formação, experiência e projetos notáveis
-3. **Formação Acadêmica** - Timeline educacional, cursos e certificações
-4. **Habilidades** - Stack técnico com barras de progresso animadas
-5. **Projetos** - Projetos em destaque + repositórios do GitHub carregados automaticamente
-6. **Contato** - Formulário de contato e links de redes sociais
-
-## 🎯 Detalhamento de Recursos
-
-### Animações
-- **Biblioteca AOS** - Animações baseadas em rolagem
-- **Efeito de Digitação** - Títulos de cargo rotativos
-- **Animação de Contador** - Incremento de estatísticas
-- **Barras de Habilidades** - Barras de progresso animadas
-- **Fundo Flutuante** - Círculos animados
-
-### Elementos Interativos
-- **Navegação Mobile** - Menu hambúrguer
-- **Rolagem Suave** - Todos os links âncora
-- **Voltar ao Topo** - Botão flutuante
-- **Navegação Ativa** - Destaca seção atual
-- **Efeitos Hover** - Cartões, botões e links
-- **Manipulação de Formulário** - Integração com mailto
-
-### Performance
-- **Lazy Loading** - Imagens carregam sob demanda
-- **JavaScript Puro** - Sem frameworks pesados
-- **CSS Otimizado** - Seletores eficientes
-- **Dependências Mínimas** - Apenas AOS + Font Awesome
-
-## 📦 Dependências
-
-- [Font Awesome](https://fontawesome.com/) - Ícones
-- [AOS](https://michalsnik.github.io/aos/) - Animações de rolagem
-- [Google Fonts](https://fonts.google.com/) - Fontes Poppins & Montserrat
-
-## 🔧 Suporte de Navegadores
-
-- Chrome (mais recente)
-- Firefox (mais recente)
-- Safari (mais recente)
-- Edge (mais recente)
-- Navegadores móveis (iOS Safari, Chrome Mobile)
-
-## 📸 Capturas de Tela
-
-### Visualização Desktop
-![Desktop](https://via.placeholder.com/800x450/009c3b/ffffff?text=Visualização+Desktop)
-
-### Visualização Mobile
-![Mobile](https://via.placeholder.com/400x800/002776/ffffff?text=Visualização+Mobile)
-
-## 🐛 Solução de Problemas
-
-### GitHub Pages não está carregando?
-- Aguarde 2-3 minutos após primeira implantação
-- Verifique configurações do repositório > Pages está ativado
-- Certifique-se de que a branch main está selecionada
-- Verifique erros de digitação nos nomes de arquivos (sensível a maiúsculas)
-
-### Imagens não aparecem?
-- Verifique se `profile.jpg` está no diretório raiz
-- Verifique se o nome do arquivo corresponde exatamente (sensível a maiúsculas)
-- Tente limpar o cache do navegador
-
-### Animações não funcionam?
-- Verifique se JavaScript está habilitado no navegador
-- Verifique se a biblioteca AOS está carregando (verifique console do navegador)
-- Certifique-se de ter conexão com internet (AOS carrega do CDN)
-
-## 🎨 Inspiração de Design
-
-- Cores da bandeira brasileira para sensação vibrante e energética
-- Glassmorfismo para estética moderna e limpa
-- Abordagem minimalista para melhor experiência do usuário
-- Design responsivo mobile-first
-
-## 📝 Licença
-
-Este projeto é código aberto e está disponível sob a [Licença MIT](LICENSE).
-
-## 🤝 Contribuindo
-
-Sinta-se livre para fazer fork deste projeto e personalizá-lo para seu próprio portfólio! Se encontrar bugs ou tiver sugestões:
-
-1. Faça fork do repositório
-2. Crie um branch de recurso
-3. Commit suas alterações
-4. Push para o branch
-5. Abra um Pull Request
-
-## 📧 Contato
-
-**Filipe dos Reis Santos**
-- Email: miguelfilipedosreissantos@gmail.com
-- GitHub: [@filipedosreissantos](https://github.com/filipedosreissantos)
-- LinkedIn: [filipedosreissantos](https://www.linkedin.com/in/filipedosreissantos)
-- Site: [Língua Academy](https://www.linguaacademy.com.br/)
-
-## 🌟 Agradecimentos
-
-- Font Awesome pelos ícones incríveis
-- Biblioteca AOS por animações de rolagem suaves
-- Google Fonts pela bela tipografia
-- Bandeira brasileira pela inspiração de cores 🇧🇷
+</div>
 
 ---
 
-**Feito com ❤️ e ☕ no Brasil**
+## 🇧🇷 Sobre Mim
 
-*Se achou útil, por favor considere dar uma ⭐ no GitHub!*
+```javascript
+const filipe = {
+    localização: "Brasil 🇧🇷",
+    cargoAtual: "Analista de Sistemas",
+    formação: "Estudante de Engenharia de Software",
+    projetoPrincipal: "Língua Academy",
+    idiomas: ["Português", "Inglês"],
+    aprendendo: ["Arquitetura de Software Avançada", "Computação em Nuvem"],
+    paixões: ["Desenvolvimento Web", "EdTech", "Resolução de Problemas"],
+    curiosidade: "Construí uma plataforma completa de aprendizado de idiomas do zero! 🌍"
+};
+```
+
+Sou um desenvolvedor apaixonado que adora transformar ideias em soluções elegantes e funcionais. Atualmente focado em construir a **Língua Academy**, uma plataforma abrangente de aprendizado de idiomas online que torna a educação acessível e envolvente.
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 🌐 [Língua Academy](https://www.linguaacademy.com.br/)
+
+Uma plataforma completa de aprendizado de idiomas online oferecendo cursos de **Português**, **Espanhol**, **Francês**, **Italiano** e **Inglês**.
+
+**Recursos Principais:**
+- 🔐 Autenticação de usuários segura e gerenciamento de sessões
+- 💳 Integração com gateways de pagamento (PagSeguro & MercadoPago)
+- 📚 Sistema abrangente de gerenciamento de cursos
+- 🎨 Interface moderna com efeitos de glassmorfismo
+- 📱 Design totalmente responsivo
+- 🔒 Recursos avançados de segurança (proteção CSRF, limitação de taxa)
+- 📧 Sistema de email com PHPMailer
+- 🌟 Conteúdo de aprendizado interativo com visuais envolventes
+
+**Stack Tecnológico:** PHP, MySQL, JavaScript, HTML5, CSS3, PHPMailer
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Linguagens
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas & Tecnologias
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Especialidades
+- 🎨 **Front-End:** Design Responsivo, Glassmorfismo, UI/UX Moderna
+- ⚙️ **Back-End:** APIs RESTful, Integração de Pagamento, Gerenciamento de Sessões
+- 🔒 **Segurança:** Proteção CSRF, Validação de Entrada, Limitação de Taxa
+- 📧 **Sistemas de Email:** PHPMailer, Emails Transacionais
+- 🌐 **Hospedagem:** Otimização HostGator, Soluções de Hospedagem Compartilhada
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filipedosreissantos&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=009c3b&icon_color=ffdf00&text_color=002776)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=filipedosreissantos&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=009c3b&text_color=002776)
+
+![Sequência do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=filipedosreissantos&theme=default&hide_border=true&background=ffffff&ring=009c3b&fire=ffdf00&currStreakLabel=002776)
+
+</div>
+
+---
+
+## 💼 No Que Estou Trabalhando
+
+- 🌐 **Língua Academy** - Expandindo recursos e melhorando experiência do usuário
+- 📚 Estudando padrões avançados de arquitetura de software
+- 🔧 Construindo mais projetos open-source
+- 🎯 Aprimorando minhas habilidades de desenvolvimento full-stack
+- 🤝 Aberto para colaborar em projetos interessantes!
+
+---
+
+## 🎯 Principais Habilidades
+
+```text
+Desenvolvimento Full-Stack    ████████████████████   95%
+Design UI/UX                  ████████████████████   90%
+Gerenciamento de Banco Dados  ██████████████████     88%
+Integração de Pagamento       ████████████████       85%
+Segurança Web                 ████████████████       85%
+Desenvolvimento de API        ████████████████       83%
+```
+
+---
+
+## 📫 Conecte-se Comigo
+
+<div align="center">
+
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-009c3b?style=for-the-badge)](https://filipedosreissantos.github.io/portfolio/)
+[![Língua Academy](https://img.shields.io/badge/🎓_Língua_Academy-002776?style=for-the-badge)](https://www.linguaacademy.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipedosreissantos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipedosreissantos3)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/filipedosreissantos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelfilipedosreissantos@gmail.com)
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+- 🌟 Construí uma plataforma completa de aprendizado de idiomas do zero
+- 💳 Integrei com sucesso múltiplos gateways de pagamento
+- 🔒 Implementei medidas abrangentes de segurança
+- 📱 Criei aplicações web modernas totalmente responsivas
+- 🎨 Dominei glassmorfismo e tendências de design modernas
+- 🚀 Otimizei aplicações para ambientes de hospedagem compartilhada
+
+---
+
+## 💡 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!-- Esta seção será atualizada automaticamente com GitHub Actions -->
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 Gráfico de Contribuição
+
+![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=filipedosreissantos&theme=github-compact&hide_border=true&bg_color=ffffff&color=009c3b&line=002776&point=ffdf00)
+
+---
+
+## 🎨 Filosofia de Design
+
+> "Código é como humor. Quando você tem que explicá-lo, é ruim." – Cory House
+
+Acredito em escrever código limpo e mantível que fala por si mesmo. Meus projetos enfatizam:
+- 🎨 Interfaces de usuário bonitas e intuitivas
+- ⚡ Performance e otimização
+- 🔒 Abordagem com segurança em primeiro lugar
+- 📱 Design responsivo para mobile
+- ♿ Acessibilidade para todos os usuários
+
+---
+
+## 🌟 Vitrine de Projetos
+
+### Repositórios Recentes
+
+<!-- Adicione seus repositórios fixados aqui ou deixe o GitHub mostrá-los automaticamente -->
+
+---
+
+## 📚 Posts de Blog & Artigos
+
+<!-- Se você escrever posts de blog, adicione-os aqui -->
+Em breve! Fique ligado para tutoriais e insights sobre desenvolvimento web.
+
+---
+
+## 🤝 Aberto para Colaboração
+
+Sempre estou interessado em trabalhar em:
+- 🌐 Aplicações web full-stack
+- 🎓 Plataformas EdTech
+- 💡 Soluções web inovadoras
+- 🔧 Projetos open-source
+
+Sinta-se livre para entrar em contato se tiver um projeto interessante em mente!
+
+---
+
+<div align="center">
+
+### 💬 Frase Dev Aleatória
+
+![Frase](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote_bg_color=ffffff&border_color=009c3b)
+
+---
+
+### 👀 Visualizações do Perfil
+
+![Visitantes](https://api.visitorbadge.io/api/visitors?path=filipedosreissantos&label=Visualizações%20do%20Perfil&labelColor=%23009c3b&countColor=%23002776&style=flat)
+
+---
+
+### ☕ Apoie Meu Trabalho
+
+Se você gosta dos meus projetos, considere me pagar um café!
+
+[![Me Pague um Café](https://img.shields.io/badge/Me_Pague_um_Café-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/filipesantos)
+
+---
+
+**Feito com 💚💛💙 no Brasil**
+
+*"Primeiro, resolva o problema. Depois, escreva o código."* – John Johnson
+
+</div>
