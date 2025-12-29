@@ -150,7 +150,7 @@ Desenvolvimento de API        ████████████████  
 
 <!--START_SECTION:activity-->
 <!-- Esta seção será atualizada automaticamente com GitHub Actions -->
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity
 
 ---
 
@@ -177,13 +177,13 @@ Acredito em escrever código limpo e mantível que fala por si mesmo. Meus proje
 
 ### Repositórios Recentes
 
-<!-- Adicione seus repositórios fixados aqui ou deixe o GitHub mostrá-los automaticamente -->
+<!-- Adicione seus repositórios fixados aqui ou deixe o GitHub mostrá-los automaticamente
 
 ---
 
 ## 📚 Posts de Blog & Artigos
 
-<!-- Se você escrever posts de blog, adicione-os aqui -->
+<!-- Se você escrever posts de blog, adicione-os aqui
 Em breve! Fique ligado para tutoriais e insights sobre desenvolvimento web.
 
 ---
