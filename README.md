@@ -1,3 +1,5 @@
+<!--
+
 <div align="center">
 
 # 👋 Olá! Eu sou Filipe dos Reis Santos
@@ -225,3 +227,6 @@ Se você gosta dos meus projetos, considere me pagar um café!
 *"Primeiro, resolva o problema. Depois, escreva o código."* – John Johnson
 
 </div>
+
+
+-->
