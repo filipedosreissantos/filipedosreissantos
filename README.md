@@ -148,14 +148,14 @@ const filipe = {
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ### 💭 Videos of projects
 <video width="630" height="300" src="https://github.com/filipedosreissantos/PROJETOS/blob/main/chat-ui/video.mp4" controls></video>
 <video width="630" height="300" src="https://github.com/filipedosreissantos/PROJETOS/blob/main/ecommerce-front/video.mp4" controls></video>
 <video width="630" height="300" src="https://github.com/filipedosreissantos/PROJETOS/blob/main/observability-kit/video.mp4" controls></video>
 
-</div>
+</div> -->
 
 
 <!-- Footer -->
