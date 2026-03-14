@@ -1,232 +1,152 @@
-<!--
-
 <div align="center">
 
-# 👋 Olá! Eu sou Filipe dos Reis Santos
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Filipe%20dos%20Reis%20Santos&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Student&descSize=18&descAlignY=52"/>
 
-### 💻 Analista de Sistemas | 🎓 Estudante de Engenharia de Software | 🚀 Desenvolvedor Full-Stack
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8F%9B%EF%B8%8F+Building+digital+temples+with+code;%F0%9F%92%BB+React+%7C+TypeScript+%7C+Node.js+%7C+PHP;%F0%9F%8C%8D+Creator+of+L%C3%ADngua+Academy;%F0%9F%8E%93+Software+Engineering+%40+Gran+Centro" alt="Typing SVG" />
+</a>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-009c3b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://filipedosreissantos.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipedosreissantos)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipedosreissantos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelfilipedosreissantos@gmail.com)
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=009C3B&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas;Estudante+de+Engenharia+de+Software;Desenvolvedor+Full-Stack;Solucionador+de+Problemas;Entusiasta+de+Tecnologia" alt="Typing SVG" />
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipedosreissantos)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A3A5C?style=for-the-badge&logo=github&logoColor=white)](https://filipedosreissantos.github.io)
+[![Língua Academy](https://img.shields.io/badge/Língua_Academy-D4AF37?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.linguaacademy.com.br)
 
 </div>
 
 ---
 
-## 🇧🇷 Sobre Mim
+## 🏛️ About Me
 
 ```javascript
 const filipe = {
-    localização: "Brasil 🇧🇷",
-    cargoAtual: "Analista de Sistemas",
-    formação: "Estudante de Engenharia de Software",
-    projetoPrincipal: "Língua Academy",
-    idiomas: ["Português", "Inglês"],
-    aprendendo: ["Arquitetura de Software Avançada", "Computação em Nuvem"],
-    paixões: ["Desenvolvimento Web", "EdTech", "Resolução de Problemas"],
-    curiosidade: "Construí uma plataforma completa de aprendizado de idiomas do zero! 🌍"
+    location: "Brasil 🇧🇷",
+    education: {
+        degree: "Bacharelado em Engenharia de Software",
+        institution: "Gran Centro Universitário",
+        status: "Em andamento (2025-2029)"
+    },
+    currentFocus: ["React", "TypeScript", "System Architecture"],
+    funFact: "Apaixonado pela cultura greco-romana e filosofia antiga ⚱️"
 };
 ```
 
-Sou um desenvolvedor apaixonado que adora transformar ideias em soluções elegantes e funcionais. Atualmente focado em construir a **Língua Academy**, uma plataforma abrangente de aprendizado de idiomas online que torna a educação acessível e envolvente.
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+- 🔭 Trabalhando em **projetos front-end modernos**
+- 🌱 Aprofundando conhecimentos em **Engenharia de Software**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+- 🌍 Criador da **[Língua Academy](https://www.linguaacademy.com.br)**
+- 💬 Pergunte-me sobre **React, TypeScript, PHP**
+- ⚡ Filosofia: *"A excelência não é um ato, mas um hábito."* — Aristóteles
+
+<br clear="both"/>
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🛠️ Tech Stack
 
-### 🌐 [Língua Academy](https://www.linguaacademy.com.br/)
+<div align="center">
 
-Uma plataforma completa de aprendizado de idiomas online oferecendo cursos de **Português**, **Espanhol**, **Francês**, **Italiano** e **Inglês**.
-
-**Recursos Principais:**
-- 🔐 Autenticação de usuários segura e gerenciamento de sessões
-- 💳 Integração com gateways de pagamento (PagSeguro & MercadoPago)
-- 📚 Sistema abrangente de gerenciamento de cursos
-- 🎨 Interface moderna com efeitos de glassmorfismo
-- 📱 Design totalmente responsivo
-- 🔒 Recursos avançados de segurança (proteção CSRF, limitação de taxa)
-- 📧 Sistema de email com PHPMailer
-- 🌟 Conteúdo de aprendizado interativo com visuais envolventes
-
-**Stack Tecnológico:** PHP, MySQL, JavaScript, HTML5, CSS3, PHPMailer
-
----
-
-## 🛠️ Stack Tecnológico
-
-### Linguagens
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Bancos de Dados
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas & Tecnologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Especialidades
-- 🎨 **Front-End:** Design Responsivo, Glassmorfismo, UI/UX Moderna
-- ⚙️ **Back-End:** APIs RESTful, Integração de Pagamento, Gerenciamento de Sessões
-- 🔒 **Segurança:** Proteção CSRF, Validação de Entrada, Limitação de Taxa
-- 📧 **Sistemas de Email:** PHPMailer, Emails Transacionais
-- 🌐 **Hospedagem:** Otimização HostGator, Soluções de Hospedagem Compartilhada
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filipedosreissantos&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=009c3b&icon_color=ffdf00&text_color=002776)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=filipedosreissantos&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=009c3b&text_color=002776)
-
-![Sequência do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=filipedosreissantos&theme=default&hide_border=true&background=ffffff&ring=009c3b&fire=ffdf00&currStreakLabel=002776)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 No Que Estou Trabalhando
+## 📊 GitHub Stats
 
-- 🌐 **Língua Academy** - Expandindo recursos e melhorando experiência do usuário
-- 📚 Estudando padrões avançados de arquitetura de software
-- 🔧 Construindo mais projetos open-source
-- 🎯 Aprimorando minhas habilidades de desenvolvimento full-stack
-- 🤝 Aberto para colaborar em projetos interessantes!
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipedosreissantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedosreissantos&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9"/>
+</div>
 
----
-
-## 🎯 Principais Habilidades
-
-```text
-Desenvolvimento Full-Stack    ████████████████████   95%
-Design UI/UX                  ████████████████████   90%
-Gerenciamento de Banco Dados  ██████████████████     88%
-Integração de Pagamento       ████████████████       85%
-Segurança Web                 ████████████████       85%
-Desenvolvimento de API        ████████████████       83%
-```
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=filipedosreissantos&theme=tokyonight&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border_radius=10" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## 📫 Conecte-se Comigo
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-009c3b?style=for-the-badge)](https://filipedosreissantos.github.io/portfolio/)
-[![Língua Academy](https://img.shields.io/badge/🎓_Língua_Academy-002776?style=for-the-badge)](https://www.linguaacademy.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipedosreissantos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipedosreissantos3)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/filipedosreissantos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelfilipedosreissantos@gmail.com)
+| Projeto | Descrição | Tech Stack |
+|---------|-----------|------------|
+| 🌍 **[Língua Academy](https://www.linguaacademy.com.br)** | Plataforma de cursos de idiomas com 5 línguas | PHP, MySQL, JavaScript |
+| 📊 **[Admin Dashboard](https://github.com/filipedosreissantos/PROJETOS/tree/main/admin-dashboard)** | Dashboard administrativo com autenticação e CRUD | React, TypeScript, TanStack Query |
+| 🛒 **[NEONSHOP](https://github.com/filipedosreissantos/PROJETOS/tree/main/ecommerce-front)** | E-commerce futurista cyberpunk/neon | React, TypeScript, Tailwind |
+| 🏛️ **[Nile Chat](https://github.com/filipedosreissantos/PROJETOS/tree/main/chat-ui)** | Chat em tempo real com tema egípcio | React, TypeScript, Zustand |
+| 📈 **[Observability Kit](https://github.com/filipedosreissantos/PROJETOS/tree/main/observability-kit)** | Solução de observabilidade para React | React, TypeScript, Web Vitals |
+| 🏛️ **[Portfólio](https://filipedosreissantos.github.io)** | Site pessoal com tema greco-romano | HTML, CSS, JavaScript |
 
 </div>
 
 ---
 
-## 🏆 Conquistas
+## 🎓 Education
 
-- 🌟 Construí uma plataforma completa de aprendizado de idiomas do zero
-- 💳 Integrei com sucesso múltiplos gateways de pagamento
-- 🔒 Implementei medidas abrangentes de segurança
-- 📱 Criei aplicações web modernas totalmente responsivas
-- 🎨 Dominei glassmorfismo e tendências de design modernas
-- 🚀 Otimizei aplicações para ambientes de hospedagem compartilhada
-
----
-
-## 💡 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!-- Esta seção será atualizada automaticamente com GitHub Actions -->
-<!--END_SECTION:activity
-
----
-
-## 📈 Gráfico de Contribuição
-
-![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=filipedosreissantos&theme=github-compact&hide_border=true&bg_color=ffffff&color=009c3b&line=002776&point=ffdf00)
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/✓_Concluído-556B2F?style=for-the-badge" alt="Concluído"/><br/>
+      <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
+      <sub>Universidade Pitágoras Unopar Anhanguera</sub><br/>
+      <sub>📅 2022 - 2024</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/📚_Em_Andamento-1A3A5C?style=for-the-badge" alt="Em Andamento"/><br/>
+      <strong>Engenharia de Software</strong><br/>
+      <sub>Gran Centro Universitário</sub><br/>
+      <sub>📅 2025 - 2029</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎨 Filosofia de Design
+## 📫 Connect with Me
 
-> "Código é como humor. Quando você tem que explicá-lo, é ruim." – Cory House
+<div align="center">
 
-Acredito em escrever código limpo e mantível que fala por si mesmo. Meus projetos enfatizam:
-- 🎨 Interfaces de usuário bonitas e intuitivas
-- ⚡ Performance e otimização
-- 🔒 Abordagem com segurança em primeiro lugar
-- 📱 Design responsivo para mobile
-- ♿ Acessibilidade para todos os usuários
+[![Email](https://img.shields.io/badge/Email-linguaslatinas.com%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linguaslatinas.com@gmail.com)
 
----
+<br/>
 
-## 🌟 Vitrine de Projetos
+<img src="https://komarev.com/ghpvc/?username=filipedosreissantos&label=Profile%20Views&color=D4AF37&style=for-the-badge" alt="Profile Views"/>
 
-### Repositórios Recentes
-
-<!-- Adicione seus repositórios fixados aqui ou deixe o GitHub mostrá-los automaticamente
-
----
-
-## 📚 Posts de Blog & Artigos
-
-<!-- Se você escrever posts de blog, adicione-os aqui
-Em breve! Fique ligado para tutoriais e insights sobre desenvolvimento web.
-
----
-
-## 🤝 Aberto para Colaboração
-
-Sempre estou interessado em trabalhar em:
-- 🌐 Aplicações web full-stack
-- 🎓 Plataformas EdTech
-- 💡 Soluções web inovadoras
-- 🔧 Projetos open-source
-
-Sinta-se livre para entrar em contato se tiver um projeto interessante em mente!
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Frase Dev Aleatória
+### 💭 Quote of the Day
 
-![Frase](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote_bg_color=ffffff&border_color=009c3b)
-
----
-
-### 👀 Visualizações do Perfil
-
-![Visitantes](https://api.visitorbadge.io/api/visitors?path=filipedosreissantos&label=Visualizações%20do%20Perfil&labelColor=%23009c3b&countColor=%23002776&style=flat)
-
----
-
-### ☕ Apoie Meu Trabalho
-
-Se você gosta dos meus projetos, considere me pagar um café!
-
-[![Me Pague um Café](https://img.shields.io/badge/Me_Pague_um_Café-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/filipedosreissantos)
-
----
-
-**Feito com 💚💛💙 no Brasil**
-
-*"Primeiro, resolva o problema. Depois, escreva o código."* – John Johnson
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Conhece-te%20a%20ti%20mesmo&author=Or%C3%A1culo%20de%20Delfos" alt="Quote"/>
 
 </div>
 
-
--->
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
