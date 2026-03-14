@@ -148,9 +148,15 @@ const filipe = {
 
 </div>
 
+<div align="center">
+
+### 💭 Videos of projects
 <video width="630" height="300" src="https://github.com/filipedosreissantos/PROJETOS/blob/main/chat-ui/video.mp4" controls></video>
 <video width="630" height="300" src="https://github.com/filipedosreissantos/PROJETOS/blob/main/ecommerce-front/video.mp4" controls></video>
 <video width="630" height="300" src="https://github.com/filipedosreissantos/PROJETOS/blob/main/observability-kit/video.mp4" controls></video>
+
+</div>
+
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
