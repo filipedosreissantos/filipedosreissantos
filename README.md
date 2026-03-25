@@ -100,6 +100,7 @@ const filipe = {
 | 🏛️ **[Nile Chat](https://github.com/filipedosreissantos/PROJETOS/tree/main/chat-ui)** | Chat em tempo real com tema egípcio | React, TypeScript, Zustand |
 | 📈 **[Observability Kit](https://github.com/filipedosreissantos/PROJETOS/tree/main/observability-kit)** | Solução de observabilidade para React | React, TypeScript, Web Vitals |
 | 🏛️ **[Portfólio](https://filipedosreissantos.github.io)** | Site pessoal com tema greco-romano | HTML, CSS, JavaScript |
+| 🏛️ **[Calculadora](https://github.com/filipedosreissantos/MENTALCARECOLOMBIA)** | Projeto de calculadora para vaga na Mental Care Colômbia | HTML, CSS, JavaScript, NodeJS, Python, Java |
 
 </div>
 
